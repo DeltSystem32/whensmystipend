@@ -1,0 +1,5 @@
+stipend_date = last_stipend_date + 30days;
+
+Shows:
+Next stipend date (in text form)
+Following stipend dates (in calendar form)
